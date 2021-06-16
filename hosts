@@ -602,8 +602,6 @@
 127.0.0.1 yaolu.mh.163.com
 127.0.0.1 yaolu.yuedu.163.com
 127.0.0.1 newswifiapi.dftoutiao.com
-127.0.0.1 api.e.kuaishou.com
-127.0.0.1 api2.e.kuaishou.com
 127.0.0.1 log-dmp.suishenyun.cn
 127.0.0.1 log1.cmpassport.com
 127.0.0.1 adlog.tagtic.cn
@@ -753,7 +751,6 @@
 127.0.0.1 tracking.ad-survey.com
 127.0.0.1 api1.888zy.cn
 127.0.0.1 i8.i8ggwm.com
-127.0.0.1 open.e.kuaishou.com
 127.0.0.1 sdk.api.oaid.wocloud.cn
 127.0.0.1 i.w.inmobi.cn
 127.0.0.1 sdktm.w.inmobi.cn
